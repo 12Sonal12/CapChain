@@ -27,4 +27,12 @@ Feedback can be stored in two formats:
 
 ## Privacy Note
 
-Do not commit private information such as phone numbers, email addresses, student IDs, or personal details unless you have permission to publish them.
+Do not share private information, such as phone numbers, email addresses, student IDs, or other personal details, unless you have permission to publish them.
+
+## Reproducibility and Source Code Availability
+
+To support the reproducibility of this work, the source code and related implementation files may be shared with interested readers upon reasonable request.
+
+Requests for access may be sent to the corresponding author at:
+
+**Email:** ssaxena_phd20@thapar.edu
