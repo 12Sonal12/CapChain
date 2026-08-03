@@ -1,4 +1,4 @@
-# CAPCHAIN
+# CapChain
 
 This repository stores the CAPCHAIN Google Form link and the feedback collected from it.
 
