@@ -1,6 +1,6 @@
 # CapChain
 
-This repository stores the CAPCHAIN Google Form link and the feedback collected from it.
+This repository stores the CapChain Google Form link and the feedback collected from it.
 
 ## Google Form
 
